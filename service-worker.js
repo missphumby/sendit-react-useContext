@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sendit-react-useContext/precache-manifest.6bd2e28d9eaee9df366230dd21466abe.js"
+  "/sendit-react-useContext/precache-manifest.09bf08ce21d3aa1047195918fee860e6.js"
 );
 
 self.addEventListener('message', (event) => {
